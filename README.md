@@ -5,5 +5,3 @@ hello1
 hello2
 
 chng local
-
-
